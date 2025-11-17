@@ -102,6 +102,7 @@ Then open the file `FEL2_Group4_YuJingyao.ipynb`
 - I thank NTU who provides with a platform and an opportunity.
 - I thank my TA who checked our assignments and gave a positive feedback.
 - I thank myself who attempts to upload his project publicly and steps into the world of coding. 
+- I thank Lin Kexin, and I promise to give you a whole life. 
 
 
 
